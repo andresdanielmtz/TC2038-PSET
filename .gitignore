@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Personal
+.DS_Store
+*.DS_Store
