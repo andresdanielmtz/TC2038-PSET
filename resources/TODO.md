@@ -20,8 +20,8 @@
     - [x] solution explanation 
       - [x] complexity
     - [x] test cases
-  - [ ] pset 2
+  - [x] pset 2
     - [x] solution explanation 
       - [x] complexity
-    - [ ] test cases
+    - [x] test cases
   - [x] conclusion
