@@ -2,10 +2,10 @@
 
 - pset 1 _(medium)_
   - [ ] parse input 
-  - mis (maximum independent set)
-    - [ ] understand how it works 
-    - [ ] obtain solution for this particular implementation
-    - [ ] implement it 
+    - mis (maximum independent set)
+      - [ ] understand how it works 
+      - [ ] obtain solution for this particular implementation
+      - [ ] implement it 
 - pset 2 _(easy)_ 
   - [ ] parse input 
     - convex hull
@@ -14,14 +14,14 @@
       - [ ] obtain solution for this particular implementation
       - [ ] implement it
 - pdf
-  - [ ] cover
-  - [ ] intro
+  - [x] basic structure
+  - [x] cover
   - [ ] pset 1
     - [ ] solution explanation 
       - [ ] complexity
     - [ ] test cases
   - [ ] pset 2
-    - [ ] solution explanation 
+    - [x] solution explanation 
       - [ ] complexity
     - [ ] test cases
-  - [ ] conclusion 
+  - [ ] conclusion

@@ -6,6 +6,6 @@
 To compile and run the project, use the following command 
 
 ```
-g++ -std=c++11 main.cpp
+g++ -std=c++17 main.cpp
 ./a.out
 ```

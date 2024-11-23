@@ -1,5 +1,9 @@
 #include <iostream>
 
+// Algoritmo Obtenido de GeeksforGeeks:
+// https://www.geeksforgeeks.org/convex-hull-using-jarvis-algorithm-or-wrapping/
+
+
 struct Point
 {
     int x, y;
