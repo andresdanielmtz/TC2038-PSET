@@ -3,7 +3,7 @@
 
 ### Get Started
 
-To compile and run the project, use the following command 
+To compile and run the project, use the following command on any of the folders (`act1/` or `act2/`)
 
 ```
 g++ -std=c++17 main.cpp
