@@ -8,5 +8,6 @@
 - Maximum Independent Set (MIS)
   - [x] Algorithms to solve MIS problems
 - Graph Construction
-  - [ ] Build graph where towers are vertices and edges are the connections between towers
+  - [x] Build graph where towers are vertices and edges are the connections between towers
+    - That's just adjacency matrix
   - [x] Connect vertices based on distance criteria

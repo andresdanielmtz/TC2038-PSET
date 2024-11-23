@@ -5,6 +5,6 @@ This folder is meant for algorithm / files that helped develop this solution, it
 
 For the realization of this homework (especially problem set 1) I personally used the whiteboard a lot, here are some example of it. 
 
-![First image ](IMG_7633.png)
+![First image ](img/IMG_7633.png)
 
-![Second image](IMG_7634.png)
+![Second image](img/IMG_7634.png)

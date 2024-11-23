@@ -9,19 +9,19 @@
 - pset 2 _(easy)_ 
   - [x] parse input 
     - convex hull
-      - [ ] understand how it works
+      - [x] understand how it works
         - [x] choose one implementation ( gift wrapping algorithm )
       - [x] obtain solution for this particular implementation
       - [x] implement it
 - pdf
   - [x] basic structure
   - [x] cover
-  - [ ] pset 1
-    - [ ] solution explanation 
-      - [ ] complexity
-    - [ ] test cases
+  - [x] pset 1
+    - [x] solution explanation 
+      - [x] complexity
+    - [x] test cases
   - [ ] pset 2
     - [x] solution explanation 
-      - [ ] complexity
+      - [x] complexity
     - [ ] test cases
-  - [ ] conclusion
+  - [x] conclusion
