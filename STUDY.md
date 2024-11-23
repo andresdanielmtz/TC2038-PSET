@@ -4,7 +4,7 @@
   - [x] Graph Coloring Problems
 - Geometry
   - [x] Euclidean Distance
-  - [ ] Convex Hull
+  - [x] Convex Hull
 - Maximum Independent Set (MIS)
   - [x] Algorithms to solve MIS problems
 - Graph Construction

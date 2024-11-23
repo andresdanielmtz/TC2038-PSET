@@ -4,6 +4,10 @@
 #include <algorithm>
 #include <iomanip>
 
+// Algoritmo obtenido de 
+// https://www.geeksforgeeks.org/convex-hull-using-jarvis-algorithm-or-wrapping/
+
+
 struct Point {
     int x, y;
     int index;
