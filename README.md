@@ -1,5 +1,8 @@
 # TC2038 - PSET
-## _(Possibly)_ Last Problem Set
+
+## Last Problem Set
+
+> This problem set served as the final project for the course TC2038B - Analysis of Advanced Algorithms. It was divided into two activities, each one with its own set of requirements and objectives.
 
 ### Get Started
 
